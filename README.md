@@ -1,13 +1,13 @@
-# Muito prazer, Henrique aqui! 😁
+# Muito prazer, Henrique aqui! 😁 | Nice to meet you, Henrique here! 😁
 ## Sobre Mim 🧐
-Jovem estudante nesta área, não possuo grandes projetos ou experiência profissional ainda, mas a cada dia vou aprimorando meu conhecimento. 
-Meus hobbies são jogar videogame, leio livros que me chamem a atenção, gosto de assistir filmes, animes, séries e usar as redes sociais no fim do dia. 
-Me interesso em aprender assuntos sobre Tecnologia, IA's, Desenvolvimento de Games, Softwares e suas demais aplicações no dia a dia.
+Jovem entusiasta na área de tecnologia, ainda não possuo grandes projetos realizados ou experiência profissional, porém continua buscando aprender mais sobre novas tecnologias. 
+Adoro coisas sobre ficção científica e suspense. Meus hobbies são jogar videogame, assistir filmes e ler livros que me chamem a atenção.
+Meu objetivo no momento é conseguir um estágio na área de tecnologia para ter o meu próprio dinheirinho. Já o meu sonho é ajudar os meus pais e ter estabilidade financeira.
 
 ## About Me 🧐
-As a young student in this area, I don't have great projects or professional experience yet, but every day I improve my knowledge. 
-My hobbies are playing video games, I read books that catch my attention, I like to watch movies, anime, series and use social networks at the end of the day. 
-I am interested in learning subjects about Technology, AI's, Game Development, Software and its other applications on a daily basis.
+Young enthusiast in the area of technology, I still do not have great projects or professional experience, but I continue to seek to learn more about new technologies. 
+I love things about science fiction and suspense. My hobbies are playing video games, watching movies, and reading books that catch my attention.
+My goal at the moment is to get an internship in the technology area to have my own money. My dream is to help my parents and have financial stability.
 
 ## Escolaridade / Schooling 🏫
 Cursando Análise e Desenvolvimento de Sistemas no [Instituto Federal de São Paulo - Campus Jacareí](https://jcr.ifsp.edu.br)
