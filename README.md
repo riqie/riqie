@@ -1,11 +1,11 @@
 # Muito prazer, Henrique aqui! 😁 | Nice to meet you, Henrique here! 😁
 ## Sobre Mim 🧐
-Jovem entusiasta na área de tecnologia, ainda não possuo grandes projetos realizados ou experiência profissional, porém continua buscando aprender mais sobre novas tecnologias. 
+Jovem entusiasta na área de tecnologia, você pode verificar alguns de meus projetos nos repositórios abaixo, sempre continuo buscando aprender mais sobre novas tecnologias. 
 Adoro coisas sobre ficção científica e suspense. Meus hobbies são jogar videogame, assistir filmes e ler livros que me chamem a atenção.
 Meu objetivo no momento é conseguir um estágio na área de tecnologia para ter o meu próprio dinheirinho. Já o meu sonho é ajudar os meus pais e ter estabilidade financeira.
 
 ## About Me 🧐
-Young enthusiast in the area of technology, I still do not have great projects or professional experience, but I continue to seek to learn more about new technologies. 
+Young enthusiast in the area of technology, you can check some of my projects in the repositories below, always searching for learn more about new technologies. 
 I love things about science fiction and suspense. My hobbies are playing video games, watching movies, and reading books that catch my attention.
 My goal at the moment is to get an internship in the technology area to have my own money. My dream is to help my parents and have financial stability.
 
